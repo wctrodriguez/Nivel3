@@ -1,0 +1,87 @@
+* {
+	padding:0px;
+	margin:0px;
+}
+
+.bgweb {
+	background: #ece4e4;
+}
+
+.bgredes{
+	background-color: #fff;
+	border: #000 solid 1px;
+	border-radius: 15px;
+}
+.icons {
+	display: flex;
+	align-self: flex-end;
+	justify-content: flex-end;
+}
+
+.icons i {
+	color: #fff;
+	font-size: 60px;
+}
+
+.icons .fa-youtube-square {
+	color: #E93F33;
+}
+
+.icons .fa-facebook {
+	color: #3B5CA0;
+}
+
+.icons .fa-instagram {
+  color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.icons .fa-pinterest-square {
+	color: #BE3128;
+}
+
+.icons .fa-twitter-square {
+	color: #3AA1F2;
+}
+
+.fa-user {
+	font-size: 60px;
+	color: #fff;
+	padding: 5px;
+}
+
+nav {
+	background-color: #6fd862;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	text-align: center;
+	color: #6fd862;
+	text-decoration: none;
+	padding: 15px;
+	border-radius: 15px;
+	background-color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	text-decoration: none;
+	background-color: #3b5ca0;
+	color: #fff;
+}
+
+.comentarios {
+	display:flex; 
+	flex-direction:row;
+}
+
+.buscador {
+	background-color: gray;
+}
+
+h1, p {
+	color: #fff;
+
+}
