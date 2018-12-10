@@ -1,0 +1,22 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	background-image: url("../img/1.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #000;
+	background-attachment: fixed;
+}
+
+.icons i {
+	font-size: 50px;
+}
+
+.bgcolors {
+	background-color: #ffffff;
+	opacity: 0.9;
+}
